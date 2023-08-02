@@ -1,1 +1,1 @@
-"#STM32F429I €alsmalar" 
+"#STM32F429I CalismalarÄ±" 
